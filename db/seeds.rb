@@ -25,7 +25,7 @@ airlines = Airline.create([
   },
 ])
 
-reviews = Reviews.create([
+reviews = Review.create([
   {
     title: "Great Airline",
     description: "I had a lovely time",
